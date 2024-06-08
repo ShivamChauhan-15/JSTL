@@ -1,0 +1,30 @@
+<citizens>
+    <citizen>
+        <id>Z345T</id>
+        <firstname>Cheryl</firstname>
+        <lastname>Johnson</lastname>
+        <role>Manager</role>
+        <salary>12000</salary>
+    </citizen>
+    <citizen>
+        <id>Z446T</id>
+        <firstname>John</firstname>
+        <lastname>Smith</lastname>
+        <role>Employee</role>
+        <salary>1000</salary>
+    </citizen>
+    <citizen>
+        <id>Z335T</id>
+        <firstname>Justin</firstname>
+        <lastname>Claire</lastname>
+        <role>Senior Manager</role>
+        <salary>14000</salary>
+    </citizen>
+    <citizen>
+        <id>Z389T</id>
+        <firstname>Clark</firstname>
+        <lastname>Rick</lastname>
+        <role>Employee</role>
+        <salary>2000</salary>
+    </citizen>
+</citizens>
